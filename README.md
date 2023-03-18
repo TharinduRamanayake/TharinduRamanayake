@@ -1,4 +1,4 @@
-
+![image](https://user-images.githubusercontent.com/70686843/226131357-e3c3ccb6-93b4-4079-9484-f5a0706d5212.png)
 
 <h1 align="center">Hi 👋, I'm Tharindu Ramanayake</h1>
 <h3 align="center">Undergraduate BSc.(Hons) Cyber Security</h3>
