@@ -20,6 +20,9 @@
 
 - 📄 Know about my experiences [https://tharinduramanayakeofficialsite.000webhostapp.com/images/CV/Tharindu%20Ramanayake_CV.pdf](https://tharinduramanayakeofficialsite.000webhostapp.com/images/CV/Tharindu%20Ramanayake_CV.pdf)
 
+<h3 align="left">About Me:</h3>
+<p>I am a 4th-year Bsc Cyber Security undergraduate at SLTC Research University. I've always been interested in Cyber security and concepts. Working in a real industrial environment encourages me to discover and understand new concepts. I'm always eager to learn new things to gain and expand my skills. </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tharindu-ramanayake-6874a11b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu-ramanayake-6874a11b6" height="30" width="40" /></a>
