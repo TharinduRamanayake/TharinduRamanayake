@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduramanayake&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduramanayake" /> </p>
 
+- 🔭 I’m currently working on **Blockchain Related Research Project**
+
 - 🌱 I’m currently learning **DevOps, Digital Forensics, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://tharinduramanayakeofficialsite.000webhostapp.com/](https://tharinduramanayakeofficialsite.000webhostapp.com/)
