@@ -1,4 +1,9 @@
 ![image](https://user-images.githubusercontent.com/70686843/226131357-e3c3ccb6-93b4-4079-9484-f5a0706d5212.png)
+![image](https://user-images.githubusercontent.com/70686843/226195044-93eafe05-1a29-4699-a778-d1bcaadca773.png)
+![image](https://user-images.githubusercontent.com/70686843/226195112-25124fff-f7f0-4e96-83af-5781e0e7a702.png)
+
+
+
 
 <h1 align="center">Hi 👋, I'm Tharindu Ramanayake</h1>
 <h3 align="center">Undergraduate BSc.(Hons) Cyber Security</h3>
@@ -41,8 +46,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharinduramanayake&show_icons=true&locale=en" alt="tharinduramanayake" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharinduramanayake&" alt="tharinduramanayake" /></p>
-<br>
-<hr>
+
 <br>
 
-![image](https://user-images.githubusercontent.com/70686843/226131357-e3c3ccb6-93b4-4079-9484-f5a0706d5212.png)
+<hr>
+<h3 align="center">𝕿𝖍𝖆𝖓𝖐 𝖞𝖔𝖚 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 𝖒𝖊, 𝕳𝖆𝖛𝖊 𝖆 𝕲𝖔𝖔𝖉 𝕯𝖆𝖞!</h3>
+<hr>
