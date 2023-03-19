@@ -41,7 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharinduramanayake&show_icons=true&locale=en" alt="tharinduramanayake" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharinduramanayake&" alt="tharinduramanayake" /></p>
-
+<br>
+<hr>
 <br>
 
 ![image](https://user-images.githubusercontent.com/70686843/226131357-e3c3ccb6-93b4-4079-9484-f5a0706d5212.png)
