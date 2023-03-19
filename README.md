@@ -1,8 +1,4 @@
-![image](https://user-images.githubusercontent.com/70686843/226131357-e3c3ccb6-93b4-4079-9484-f5a0706d5212.png)
-![image](https://user-images.githubusercontent.com/70686843/226195044-93eafe05-1a29-4699-a778-d1bcaadca773.png)
-![image](https://user-images.githubusercontent.com/70686843/226195112-25124fff-f7f0-4e96-83af-5781e0e7a702.png)
-
-
+![image](https://user-images.githubusercontent.com/70686843/226195351-92a6ae73-e84e-4ae4-afc3-f0f7cbf982a2.png)
 
 
 <h1 align="center">Hi 👋, I'm Tharindu Ramanayake</h1>
