@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **tharindus223@gmail.com**
 
-- 📄 Know about my experiences [https://tharinduramanayakeofficialsite.000webhostapp.com/images/CV/Tharindu%20Ramanayake_CV.pdf](https://tharinduramanayakeofficialsite.000webhostapp.com/images/CV/Tharindu%20Ramanayake_CV.pdf)
+- 📄 Know about my experiences refer to my Portfolio [https://tharinduramanayakeofficialsite.000webhostapp.com/](https://tharinduramanayakeofficialsite.000webhostapp.com/)
+
 
 <h3 align="left">About Me:</h3>
 <p> &emsp; I am a 4th-year Bsc Cyber Security undergraduate at SLTC Research University. I've always been interested in Cyber security and concepts like cryptography, Digital Forensics, Cyber law and regulations and etc. Working in a real industrial environment encourages me to discover and understand new concepts. I'm always eager to learn new things to gain and expand my skills. </p>
